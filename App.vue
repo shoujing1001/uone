@@ -15,7 +15,7 @@
 					  success(res) {
 						console.log(res);
 						uni.request({//此接口返回值为模拟数据
-							url:"http://uone.keepesteem.cn/api/memberMy/qq_login",
+							url:"http://pai.nauzone.cn/api/memberMy/qq_login",
 							data:res
 						}).then(data=>{
 							var [err,res] = data;

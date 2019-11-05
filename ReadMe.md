@@ -28,7 +28,7 @@ UI库：[ColorUI](https://www.color-ui.com/)
 
 特迁移了一个测试后台，供各位小伙伴快速熟悉、测试此程序。
 
-管理后台地址：uone.keepesteem.cn
+管理后台地址：pai.nauzone.cn
 登录账号：keepesteem
 密码：uone123
 

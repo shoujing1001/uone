@@ -16,7 +16,7 @@ Vue.prototype.setShare = function(){
 	})
 }
 const nau = {
-	apiUrl:"http://uone.keepesteem.cn/",
+	apiUrl:"http://pai.nauzone.cn/",
 	
 	request: function(service, postData,hideLoading, method,type) {
 		//接口请求
