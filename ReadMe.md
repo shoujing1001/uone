@@ -9,13 +9,8 @@ UI库：[ColorUI](https://www.color-ui.com/)
 本项目是19年国庆节期间完成的小项目，初衷是为了帮助我的同学们更好的获取学习资料，顺便挑战一下快速构建前后端分离项目的全过程。
 
 快速预览：
-<div style="width:100%;over-flow-x:scroll;over-flow-y:hidden;white-space:nowrap">
-<img src="https://s2.ax1x.com/2019/11/05/M9kgD1.png" alt="M9kgD1.png" border="0" style="marin:10px">
-<img src="https://s2.ax1x.com/2019/11/05/M9kh4O.png" alt="M9kh4O.png" border="0" style="marin:10px">
-<img src="https://s2.ax1x.com/2019/11/05/M9kI8e.png" alt="M9kI8e.png" border="0" style="marin:10px">
-<img src="https://s2.ax1x.com/2019/11/05/M9kcuR.png" alt="M9kcuR.png" border="0" style="marin:10px">
-<img src="https://s2.ax1x.com/2019/11/05/M9ksgJ.png" alt="M9ksgJ.png" border="0" style="marin:10px">
-</div>
+
+<img src="https://s2.ax1x.com/2019/11/05/M9kgD1.png" alt="M9kgD1.png" border="0" style="marin:10px;width:300px;">
 
 优易资料帮已上线，使用QQ扫码可预览效果：
 
